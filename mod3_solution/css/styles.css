@@ -5,9 +5,8 @@ body{
 	font-family: 'Oxygen Mono', monospace;
 	font-size: 5;
 }
-.navbar{
+.navbar-default{
 	background-color: #66ff66;
-
 }
 
 .main-content {
@@ -17,8 +16,14 @@ body{
 {
 	#bs-example-navbar-collapse-1{
 		background-color: #ffcccc;
+		
 	}
 }
+
+.part{
+	border-top: 1px solid black;
+}
+
 .title{
 	margin-bottom: 50px;
 	color: #000000;
