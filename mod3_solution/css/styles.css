@@ -1,0 +1,27 @@
+body{
+	background-color: #ffffcc;
+}
+*{
+	font-family: 'Oxygen Mono', monospace;
+	font-size: 5;
+}
+.navbar{
+	background-color: #66ff66;
+}
+.navbar-brand{
+	color: darkred;
+
+}
+.main-content {
+	background-color: #ff99c2;
+}
+@media( max-width: 768px )
+{
+	#bs-example-navbar-collapse-1{
+		background-color: #4da6ff;
+	}
+}
+.title{
+	margin-bottom: 50px;
+	color: #000000;
+}
